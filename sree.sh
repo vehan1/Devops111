@@ -20,4 +20,3 @@ do
 done
 
 ls -l
-echo "hello baby"
