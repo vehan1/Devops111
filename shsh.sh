@@ -1,8 +1,8 @@
 #!/bin/bash
-
+mkdir Task1
 echo "I am creating directory"
 mkdir Task1
-
+echo "hi baby"
 echo "creating files "
 
 for((i=1; i<=5; i++ ))
