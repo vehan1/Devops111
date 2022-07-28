@@ -17,6 +17,5 @@ ls -l
 for((i=1; i<=5; i++))
 do
         mv task_${i}.txt task_${i}_$(date '+%Y-%m-%d').txt
-done
-echo "hello baby how rae you"
-mkdir Task1
+do
+echo "hi ma baby"
