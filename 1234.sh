@@ -3,3 +3,4 @@ do
         echo "welcome $i"
         touch task_$i.txt
 done
+echo "hello baby"
